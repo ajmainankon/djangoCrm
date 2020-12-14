@@ -1,0 +1,35 @@
+django==3
+pillow==7.1.2
+django-allauth==0.43.0
+django-cors-headers==3.5.0
+django-filter==2.4.0
+django-rest-auth==0.9.5
+djangorestframework==3.12.2
+djangorestframework-jwt==1.11.0
+djangorestframework-simplejwt==4.6.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+restaurant review
+menu
+video
+restaurant 
+
+rest api
+yelp
+
+
+
+admin
+234@siam
